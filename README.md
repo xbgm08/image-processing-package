@@ -1,27 +1,28 @@
-# package_name
+# image_processing
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+Descrição.
+O pacote image_processing é usado para:
+    Processamento:
+        - Correspondência de histograma
+        - Similaridade estrutural
+        - Redimensionar imagem
+    Utilitários:
+        - Ler imagem
+        - Salvar imagem
+        - Plotar imagem
+        - Plotar resultado
+        - Plotar histograma
 
-## Installation
+## Instalação
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar o image_processing
 
 ```bash
-pip install package_name
+pip install image_processing
 ```
 
-## Usage
-
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
-```
-
-## Author
-My_name
+## Autor
+Gabriel Martins Braulino
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
