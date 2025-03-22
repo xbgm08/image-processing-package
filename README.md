@@ -1,7 +1,8 @@
 # image_processing
 
-Descrição.
+## Descrição
 O pacote image_processing é usado para:
+
     Processamento:
         - Correspondência de histograma
         - Similaridade estrutural
